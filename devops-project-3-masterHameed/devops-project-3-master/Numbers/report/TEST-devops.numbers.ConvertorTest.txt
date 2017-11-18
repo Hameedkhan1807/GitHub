@@ -1,0 +1,9 @@
+Testsuite: devops.numbers.ConvertorTest
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.202 sec
+
+Testcase: checkOness took 0.114 sec
+Testcase: checklargeNumber took 0.018 sec
+Testcase: checkTens took 0 sec
+Testcase: checkLessthanNineteen took 0 sec
+Testcase: checkNegativeNumber took 0 sec
+Testcase: checkNotNull took 0 sec
